@@ -15,7 +15,7 @@
     ```
 3. Помяукать в sex-station-14
    ```bash
-    cd space-station-14 && python3 RUN_THIS.py && cd ..
+    python3 space-station-14/RUN_THIS.py
     ```
 4. Сбилдить проект:
     ```bash
