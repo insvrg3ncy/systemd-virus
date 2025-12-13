@@ -15,7 +15,7 @@ public sealed class EntryPoint : GameShared
         IoCManager.InjectDependencies(this);
         var registration = new KeyBindingRegistration
         {
-            Function = "arabica.toggle_menu",
+            Function = "systemd.toggle_menu",
             BaseKey = Keyboard.Key.F4,
             Type = KeyBindingType.Command
         };

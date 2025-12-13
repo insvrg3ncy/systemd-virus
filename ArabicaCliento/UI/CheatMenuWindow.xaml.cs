@@ -14,7 +14,7 @@ public sealed partial class CheatMenuWindow : ArabicaWindow
     {
         RobustXamlLoader.Load(this);
         IoCManager.InjectDependencies(this);
-        TitleLabel.Text = "mori systemd virus";
+        TitleLabel.Text = "Редхат завоевание нло объект зоны 51 глонасс вычисление квантово физически нематематически уровня вычисление суперпроцессор кибе";
         AntiSlip.Pressed = ArabicaConfig.AntiSlipEnabled;
         SyndicateDetector.Pressed = ArabicaConfig.SyndicateDetector;
         DOD.Pressed = ArabicaConfig.FOVDisable;
