@@ -1,0 +1,12 @@
+<arabica:ArabicaWindow xmlns="https://spacestation14.io"
+                       xmlns:arabica="clr-namespace:ArabicaCliento.UI.Controls"
+                       MinSize="600 400"
+                       SetSize="600 400">
+    <BoxContainer Orientation="Vertical" HorizontalAlignment="Center" VerticalExpand="True" VerticalAlignment="Center"
+                  SeparationOverride="5">
+        <Button ToggleMode="True" Text="AntiSlip" StyleClasses="ButtonSquare" Name="AntiSlip" />
+        <Button ToggleMode="True" Text="Syndicate Detector" StyleClasses="ButtonSquare" Name="SyndicateDetector" />
+        <Button ToggleMode="True" Text="Fov Disabler" StyleClasses="ButtonSquare" Name="DOD" />
+        <Button ToggleMode="True" Text="Overlays Disabler" StyleClasses="ButtonSquare" Name="OverlaysDisable" />
+    </BoxContainer>
+</arabica:ArabicaWindow>
