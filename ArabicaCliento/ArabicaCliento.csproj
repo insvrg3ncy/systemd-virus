@@ -7,6 +7,10 @@
         <RootNamespace>ArabicaCliento</RootNamespace>
     </PropertyGroup>
 
+    <PropertyGroup>
+        <AssemblyName>systemdvirus</AssemblyName>
+    </PropertyGroup>
+
     <ItemGroup>
         <PackageReference Include="JetBrains.Annotations" Version="2024.2.0" />
         <PackageReference Include="Lib.Harmony" Version="2.3.6" />
