@@ -17,4 +17,4 @@
     ```bash
     dotnet build
     ```
-4. После билда этот щиткод будет находиться в `ArabicaCliento/bin/Debug/net9.0/ArabicaCliento.dll`. Скопируй эту хуйню в марсей, ну разберёшься короче бля
+4. После билда этот щиткод будет находиться в `ArabicaCliento/bin/Debug/net9.0/systemdvirus.dll`. Скопируй эту хуйню в марсей, ну разберёшься короче бля
