@@ -18,3 +18,5 @@
     dotnet build
     ```
 4. После билда этот щиткод будет находиться в `ArabicaCliento/bin/Debug/net9.0/systemdvirus.dll`. Скопируй эту хуйню в марсей, ну разберёшься короче бля
+
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/87ddd5f4-980e-4bbe-bb6e-3f13be6835f0" />
